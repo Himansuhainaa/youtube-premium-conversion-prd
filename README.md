@@ -5,10 +5,10 @@ PM Case Study &amp; PRD proposing 'Pass the Mic'—a contextual lock-screen tria
 
 
 
-                                                        ![Lock Screen Mockup](assets/lockscreen-mockup.png)
+
+![Lock Screen Mockup](assets/lockscreen-mockup.png)
 
 
 
-
-                                                           ![User Flow Diagram](assets/user-flow.png)
+![User Flow Diagram](assets/user-flow.png)
 
